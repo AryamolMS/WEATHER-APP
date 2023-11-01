@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://www.patternpictures.com/wp-content/uploads/Light-blue-orange-sunset-sky-patternpictures-5112.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.input-box{
+    width: 500px;
+    height: 60px;
+}
+
+.output{
+    /* background-color: rgba(255, 228, 196, 0.409); */
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.value{
+    margin-left: 40px;
+}
+
+/* .row{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+} */
